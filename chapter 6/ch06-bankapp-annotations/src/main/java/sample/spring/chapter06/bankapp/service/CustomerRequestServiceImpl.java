@@ -21,7 +21,7 @@ public class CustomerRequestServiceImpl implements CustomerRequestService {
 	public CustomerRequestServiceImpl(
 			CustomerRequestDetails customerRequestDetails,
 			CustomerRequestDao customerRequestDao) {
-		logger.info("Created CustomerRequestServiceImpl instance");
+//		logger.info("Created CustomerRequestServiceImpl instance");
 		this.customerRequestDetails = customerRequestDetails;
 		this.customerRequestDao = customerRequestDao;
 	}

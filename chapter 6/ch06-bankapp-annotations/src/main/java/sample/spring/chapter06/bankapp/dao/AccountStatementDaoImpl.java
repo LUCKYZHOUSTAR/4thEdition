@@ -14,7 +14,7 @@ public class AccountStatementDaoImpl implements AccountStatementDao {
 	
 	@Override
 	public AccountStatement getAccountStatement(Date from, Date to) {
-		logger.info("Getting account statement");
+//		logger.info("Getting account statement");
 		return new AccountStatement();
 	}
 

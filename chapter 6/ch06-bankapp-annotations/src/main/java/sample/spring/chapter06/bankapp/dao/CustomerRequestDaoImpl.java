@@ -12,7 +12,8 @@ public class CustomerRequestDaoImpl implements CustomerRequestDao {
 			.getLogger(CustomerRequestDaoImpl.class);
 
 	public CustomerRequestDaoImpl() {
-		logger.info("Created CustomerRequestDaoImpl instance");
+
+//		logger.info("Created CustomerRequestDaoImpl instance");
 	}
 
 	@Override

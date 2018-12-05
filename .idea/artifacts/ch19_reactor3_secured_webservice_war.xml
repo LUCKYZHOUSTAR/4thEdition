@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ch19-reactor3-secured-webservice:war">
+    <output-path>$PROJECT_DIR$/chapter 19/ch19-reactor3-secured-webservice/target</output-path>
+    <root id="archive" name="ch19-reactor3-secured-webservice-0.1.0.BUILD-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ch19-reactor3-secured-webservice:war exploded" />
+    </root>
+  </artifact>
+</component>

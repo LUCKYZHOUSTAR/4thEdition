@@ -12,7 +12,8 @@ public class CustomerRegistrationDaoImpl implements CustomerRegistrationDao {
 			.getLogger(CustomerRegistrationDaoImpl.class);
 
 	public CustomerRegistrationDaoImpl() {
-		logger.info("Created CustomerRegistrationDaoImpl instance");
+
+//		logger.info("Created CustomerRegistrationDaoImpl instance");
 	}
 
 	@Override

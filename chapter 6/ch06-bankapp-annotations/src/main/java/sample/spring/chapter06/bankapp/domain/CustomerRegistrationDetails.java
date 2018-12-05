@@ -17,7 +17,7 @@ public class CustomerRegistrationDetails {
 	private String cardNumber;
 
 	public CustomerRegistrationDetails() {
-		logger.info("Created CustomerRegistrationDetails instance");
+//		logger.info("Created CustomerRegistrationDetails instance");
 	}
 
 	public void setAccountNumber(String accountNumber) {

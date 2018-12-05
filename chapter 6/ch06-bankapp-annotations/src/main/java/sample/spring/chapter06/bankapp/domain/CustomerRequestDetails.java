@@ -21,7 +21,8 @@ public class CustomerRequestDetails {
 	private String resolutionTimeInDays;
 
 	public CustomerRequestDetails() {
-		logger.info("Created CustomerRequestDetails instance");
+
+//		logger.info("Created CustomerRequestDetails instance");
 	}
 
 	public String getType() {
