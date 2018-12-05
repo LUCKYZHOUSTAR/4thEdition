@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ch15-async-webservice:war">
+    <output-path>$PROJECT_DIR$/chapter 15/ch15-async-webservice/target</output-path>
+    <root id="archive" name="ch15-async-webservice-0.1.0.BUILD-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ch15-async-webservice:war exploded" />
+    </root>
+  </artifact>
+</component>

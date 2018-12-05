@@ -20,6 +20,7 @@ public class LoggingAspect {
 	@Pointcut(value = "execution(* sample.spring.chapter11.bankapp.service.*Service.*(..))")
 	private void invokeServiceMethods() {
 
+		System.out.println("哈哈哈");
 	}
 
 	@Before(value = "invokeServiceMethods()")

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ch01-bankapp-xml" />
+        <module name="ch02-bankapp-interfaces" />
+        <module name="ch02-bankapp-scopes" />
+        <module name="ch03-bankapp-constructor-args-by-name" />
+        <module name="ch03-bankapp-constructor-args-by-type" />
+        <module name="ch03-bankapp-factorybean" />
+        <module name="ch03-bankapp-inheritance" />
+        <module name="ch03-bankapp-inheritance-examples" />
+        <module name="ch03-bankapp-modular" />
+        <module name="ch03-namespaces-example" />
+        <module name="ch03-simple-types-examples" />
+        <module name="ch03-util-schema-examples" />
+        <module name="ch04-bankapp-context-aware" />
+        <module name="ch04-bankapp-dependencies" />
+        <module name="ch04-bankapp-lookup-method" />
+        <module name="ch04-bankapp-replaced-method" />
+        <module name="ch04-springbankapp-autowiring" />
+        <module name="ch05-bankapp-beanfactorypostprocessor" />
+        <module name="ch05-bankapp-beanpostprocessor" />
+        <module name="ch05-bankapp-customization" />
+        <module name="ch05-bankapp-jsr250" />
+        <module name="ch05-localoverride-example" />
+        <module name="ch05-property-placeholder-element-example" />
+        <module name="ch05-propertyOverrideConfigurer-example" />
+        <module name="ch05-propertySourcesPlaceholderConfigurer-example" />
+        <module name="ch06-bankapp-annotations" />
+        <module name="ch06-bankapp-jsr330" />
+        <module name="ch06-bean-profiles" />
+        <module name="ch06-custom-qualifier" />
+        <module name="ch06-jsr380-newfeatures" />
+        <module name="ch06-jsr380-validation" />
+        <module name="ch06-lazy-dependencies" />
+        <module name="ch06-spel-example" />
+        <module name="ch06-validator-interface" />
+        <module name="ch06-value-annotation" />
+        <module name="ch07-bankapp-configuration" />
+        <module name="ch07-bankapp-import-configs" />
+        <module name="ch07-bankapp-more" />
+        <module name="ch07-bankapp-profiles" />
+        <module name="ch07-functional-style" />
+        <module name="ch08-bankapp-hibernate" />
+        <module name="ch08-bankapp-jdbc" />
+        <module name="ch08-bankapp-tx-jdbc" />
+        <module name="ch08-javaconfig-hibernate" />
+        <module name="ch09-javaconfig-jpa" />
+        <module name="ch10-bankapp" />
+        <module name="ch10-bankapp-javaconfig" />
+        <module name="ch11-aop-advices" />
+        <module name="ch11-aop-pointcuts" />
+        <module name="ch11-aop-proxy" />
+        <module name="ch11-aop-xml-schema" />
+        <module name="ch11-simple-aop" />
+        <module name="ch12-annotation-helloworld" />
+        <module name="ch12-bankapp" />
+        <module name="ch12-helloworld" />
+        <module name="ch13-bankapp" />
+        <module name="ch13-data-binding" />
+        <module name="ch13-jsr380-validation" />
+        <module name="ch13-jsr380-validation-javaconfig" />
+        <module name="ch13-session-attributes" />
+        <module name="ch14-webservice" />
+        <module name="ch14-webservice-client" />
+        <module name="ch14-webservice-client-uritemplates" />
+        <module name="ch15-async-bankapp" />
+        <module name="ch15-async-webservice" />
+        <module name="ch15-async-webservice-client" />
+        <module name="ch15-bankapp" />
+        <module name="ch15-commons-file-upload" />
+        <module name="ch15-converter-formatter-bankapp" />
+        <module name="ch15-servlet3-file-upload" />
+        <module name="ch16-bankapp-db-security" />
+        <module name="ch16-bankapp-simple-security" />
+        <module name="ch16-javaconfig-simple-security" />
+        <module name="ch17-functions" />
+        <module name="ch17-lambdas" />
+        <module name="ch18-backpressure" />
+        <module name="ch19-reactor3-secured-webservice" />
+      </profile>
+      <profile name="Annotation profile for ch07-indexed-annotation" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processor name="org.springframework.context.index.CandidateComponentsIndexer" />
+        <module name="ch07-indexed-annotation" />
+      </profile>
+      <profile name="Annotation profile for ch09-springdata-jpa" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processor name="com.querydsl.apt.jpa.JPAAnnotationProcessor" />
+        <module name="ch09-springdata-jpa" />
+      </profile>
+      <profile name="Annotation profile for ch09-springdata-mongo" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processor name="org.springframework.data.mongodb.repository.support.MongoAnnotationProcessor" />
+        <module name="ch09-springdata-mongo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ch01-bankapp-xml" target="9" />
+      <module name="ch02-bankapp-interfaces" target="9" />
+      <module name="ch02-bankapp-scopes" target="9" />
+      <module name="ch03-bankapp-constructor-args-by-name" target="9" />
+      <module name="ch03-bankapp-constructor-args-by-type" target="9" />
+      <module name="ch03-bankapp-factorybean" target="9" />
+      <module name="ch03-bankapp-inheritance" target="9" />
+      <module name="ch03-bankapp-inheritance-examples" target="9" />
+      <module name="ch03-bankapp-modular" target="9" />
+      <module name="ch03-namespaces-example" target="9" />
+      <module name="ch03-simple-types-examples" target="9" />
+      <module name="ch03-util-schema-examples" target="9" />
+      <module name="ch04-bankapp-context-aware" target="9" />
+      <module name="ch04-bankapp-dependencies" target="9" />
+      <module name="ch04-bankapp-lookup-method" target="9" />
+      <module name="ch04-bankapp-replaced-method" target="9" />
+      <module name="ch04-springbankapp-autowiring" target="9" />
+      <module name="ch05-bankapp-beanfactorypostprocessor" target="9" />
+      <module name="ch05-bankapp-beanpostprocessor" target="9" />
+      <module name="ch05-bankapp-customization" target="9" />
+      <module name="ch05-bankapp-jsr250" target="9" />
+      <module name="ch05-localoverride-example" target="9" />
+      <module name="ch05-property-placeholder-element-example" target="9" />
+      <module name="ch05-propertyOverrideConfigurer-example" target="9" />
+      <module name="ch05-propertySourcesPlaceholderConfigurer-example" target="9" />
+      <module name="ch06-bankapp-annotations" target="9" />
+      <module name="ch06-bankapp-jsr330" target="9" />
+      <module name="ch06-bean-profiles" target="9" />
+      <module name="ch06-custom-qualifier" target="9" />
+      <module name="ch06-jsr380-newfeatures" target="9" />
+      <module name="ch06-jsr380-validation" target="9" />
+      <module name="ch06-lazy-dependencies" target="9" />
+      <module name="ch06-spel-example" target="9" />
+      <module name="ch06-validator-interface" target="9" />
+      <module name="ch06-value-annotation" target="9" />
+      <module name="ch07-bankapp-configuration" target="9" />
+      <module name="ch07-bankapp-import-configs" target="9" />
+      <module name="ch07-bankapp-more" target="9" />
+      <module name="ch07-bankapp-profiles" target="9" />
+      <module name="ch07-functional-style" target="9" />
+      <module name="ch07-indexed-annotation" target="9" />
+      <module name="ch08-bankapp-hibernate" target="9" />
+      <module name="ch08-bankapp-jdbc" target="9" />
+      <module name="ch08-bankapp-tx-jdbc" target="9" />
+      <module name="ch08-javaconfig-hibernate" target="9" />
+      <module name="ch09-javaconfig-jpa" target="9" />
+      <module name="ch09-springdata-jpa" target="9" />
+      <module name="ch09-springdata-mongo" target="9" />
+      <module name="ch10-bankapp" target="9" />
+      <module name="ch10-bankapp-javaconfig" target="9" />
+      <module name="ch11-aop-advices" target="9" />
+      <module name="ch11-aop-pointcuts" target="9" />
+      <module name="ch11-aop-proxy" target="9" />
+      <module name="ch11-aop-xml-schema" target="9" />
+      <module name="ch11-simple-aop" target="9" />
+      <module name="ch12-annotation-helloworld" target="9" />
+      <module name="ch12-bankapp" target="9" />
+      <module name="ch12-helloworld" target="9" />
+      <module name="ch13-bankapp" target="9" />
+      <module name="ch13-data-binding" target="9" />
+      <module name="ch13-jsr380-validation" target="9" />
+      <module name="ch13-jsr380-validation-javaconfig" target="9" />
+      <module name="ch13-session-attributes" target="9" />
+      <module name="ch14-webservice" target="9" />
+      <module name="ch14-webservice-client" target="9" />
+      <module name="ch14-webservice-client-uritemplates" target="9" />
+      <module name="ch15-async-bankapp" target="9" />
+      <module name="ch15-async-webservice" target="9" />
+      <module name="ch15-async-webservice-client" target="9" />
+      <module name="ch15-bankapp" target="9" />
+      <module name="ch15-commons-file-upload" target="9" />
+      <module name="ch15-converter-formatter-bankapp" target="9" />
+      <module name="ch15-servlet3-file-upload" target="9" />
+      <module name="ch16-bankapp-db-security" target="9" />
+      <module name="ch16-bankapp-simple-security" target="9" />
+      <module name="ch16-javaconfig-simple-security" target="9" />
+      <module name="ch17-functions" target="9" />
+      <module name="ch17-lambdas" target="9" />
+      <module name="ch18-backpressure" target="9" />
+      <module name="ch19-reactor3-secured-webservice" target="9" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

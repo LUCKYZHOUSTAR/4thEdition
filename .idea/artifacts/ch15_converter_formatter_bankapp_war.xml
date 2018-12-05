@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ch15-converter-formatter-bankapp:war">
+    <output-path>$PROJECT_DIR$/chapter 15/ch15-converter-formatter-bankapp/target</output-path>
+    <root id="archive" name="ch15-converter-formatter-bankapp-0.1.0.BUILD-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ch15-converter-formatter-bankapp:war exploded" />
+    </root>
+  </artifact>
+</component>

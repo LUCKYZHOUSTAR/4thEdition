@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ch12-helloworld:war">
+    <output-path>$PROJECT_DIR$/chapter 12/ch12-helloworld/target</output-path>
+    <root id="archive" name="ch12-helloworld-0.1.0.BUILD-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ch12-helloworld:war exploded" />
+    </root>
+  </artifact>
+</component>

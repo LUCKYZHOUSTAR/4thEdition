@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ch14-webservice:war">
+    <output-path>$PROJECT_DIR$/chapter 14/ch14-webservice/target</output-path>
+    <root id="archive" name="ch14-webservice-0.1.0.BUILD-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ch14-webservice:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ch16-bankapp-db-security:war">
+    <output-path>$PROJECT_DIR$/chapter 16/ch16-bankapp-db-security/target</output-path>
+    <root id="archive" name="ch16-bankapp-db-security-0.1.0.BUILD-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ch16-bankapp-db-security:war exploded" />
+    </root>
+  </artifact>
+</component>
